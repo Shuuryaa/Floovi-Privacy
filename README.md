@@ -80,4 +80,4 @@ We aim to respond to all inquiries in a timely and respectful manner.
 
 Floovi is an independent project and is not affiliated with or endorsed by Discord Inc., Spotify, Deezer, or SoundCloud.
 
-This Privacy Policy does not create a contractual obligation between you and Moon Music, but serves to explain our data handling practices in good faith.
+This Privacy Policy does not create a contractual obligation between you and Floovi, but serves to explain our data handling practices in good faith.
