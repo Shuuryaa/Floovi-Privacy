@@ -32,7 +32,7 @@ You have the right to:
 Floovi is not intended for individuals under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal data from children.  
 
 ## 6. Bot Usage Rules  
-By using Moon Music, you agree to the following:  
+By using Floovi, you agree to the following:  
 - **No Spamming** – Excessive or automated command usage is prohibited.  
 - **No Advertising** – Promotional content using the bot is not allowed.  
 - **No Exploits or Abuse** – Attempting to hack, reverse engineer, or misuse the bot will result in permanent bans.  
